@@ -1,0 +1,10 @@
+---
+title: "Research"
+subtitle: "We focus on advancing our understanding of children’s learning and cognition in the context of AI, aiming to ensure that AI serves as a positive force in children’s development while mitigating risks."
+title-block-banner: false
+---
+
+## Focus Area
+
+## AI in Education
+

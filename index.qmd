@@ -1,8 +1,10 @@
 ---
-title: "Yongjin Lee"
+title: "Yongjin Lee, PhD"
+pagetitle: "Yongjin Lee, PhD"
+subtitle: "Educator • Researcher • Innovator"
 ---
 
-This is a Quarto website.
+Integrating AI into Meaningful Learning Experiences
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 

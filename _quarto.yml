@@ -6,8 +6,9 @@ website:
   title: "Yongjin Lee"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - research.qmd
+      - teaching.qmd
+      - cv.qmd
       - about.qmd
 
 format:
