@@ -10,14 +10,42 @@ website:
       - teaching.qmd
       - cv.qmd
       - about.qmd
+  
+  page-footer:  
+    left: >-
+     &#169; 2025 Yongjin Lee &#8729; Made with [Quarto](https://quarto.org)
+     
+    center: ""
+    
+    right: 
+    - icon: envelope
+      text: Email
+      href: mailto:y_lee10@uncg.edu
+      target: _blank
+    - icon: linkedin
+      text: Linkedin
+      href: https://www.linkedin.com/in/yongjin-lee-973273258
+      target: _blank
+    - icon: medium
+      text: Medium
+      href: https://medium.com/@yongjinL
+      target: _blank
+    - text: "{{< ai orcid >}} Orcid"
+      href: https://orcid.org/0000-0001-6301-7203
+      target: _blank
+    - icon: github
+      text: Github
+      href: https://github.com/Yongjin-L
+      target: _blank
 
 format:
   html:
     theme:
       - cosmo
       - brand
+    monofont: courier new
+    grid:
+      body-width: 1600px 
     css: styles.css
     toc: true
-
-editor: visual
 
