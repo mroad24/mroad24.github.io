@@ -11,7 +11,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "research.html#ai-in-education",
@@ -19,5 +19,33 @@
     "title": "Research",
     "section": "AI in Education",
     "text": "AI in Education"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "index.html#my-research-journey",
+    "href": "index.html#my-research-journey",
+    "title": "Yongjin Lee, PhD",
+    "section": "My Research Journey",
+    "text": "My Research Journey"
+  },
+  {
+    "objectID": "index.html#ready-to-innovate-together",
+    "href": "index.html#ready-to-innovate-together",
+    "title": "Yongjin Lee, PhD",
+    "section": "Ready to Innovate Together",
+    "text": "Ready to Innovate Together\nPassionate about transforming education through the thoughtful integration of AI, grounded in years of classroom experience and rigorous research."
   }
 ]

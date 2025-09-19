@@ -3,10 +3,8 @@ title: "Yongjin Lee, PhD"
 about:
   id: hero-heading
   template: broadside
-  image: mypic.png
+  image: intro_yj.png
 
-
-page-layout: full
 
 pagetitle: "Yongjin Lee, PhD"
 subtitle: "Educator • Researcher • Innovator"
@@ -22,3 +20,5 @@ My current work focuses on **social and emotional learning in physical education
 
 :::
 <!-- hero-heading -->
+
+

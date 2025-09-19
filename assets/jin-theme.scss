@@ -1,5 +1,7 @@
 /*-- scss:defaults --*/
 
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text&family=Source+Sans+Pro&display=swap');
+
 //Fonts
 
 // stylelint-disable-next-line value-keyword-case
@@ -10,3 +12,30 @@ $headings-font-weight:       400;
 $font-family-monospace:      "Dank Mono", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 
 $headings-font-family:       "Petrona";
+
+
+.navbar {
+  font-family: 'Red Hat Text';
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.navbar-brand {
+  font-family: 'Red Hat Text';
+  font-size: 1rem !important;  /* 원하는 크기로 */
+  font-weight: bold;
+  text-transform: uppercase; /* 대문자 안 바꾸려면 */
+  letter-spacing: 0.05em;
+  color: #000C49 !important;
+  
+}
+
+.about-entity {
+  flex: 1;               /* 좌측 영역 너비: 기존 1 비율 */
+  max-width: 30%;        /* 최대 너비 제한 */
+}
+
+.about-contents {
+  flex: 2;               /* 우측 영역 너비: 좌측보다 2배 넓게 */
+  max-width: 70%;
+}
