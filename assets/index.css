@@ -1,0 +1,13 @@
+/* column-page 영역의 최대 너비 해제 및 전체 확장 */
+.quarto-about-broadside .about-main .about-entity {
+  background-size: contain;
+  max-width: none !important;
+  width: 80% !important;
+  margin-right: 3rem !important;
+  margin-bottom: 1rem !important;
+}
+
+.quarto-about-broadside .about-main .about-contents {
+  color: #002c59 !important;
+  margin-top: 2rem !important;
+}
