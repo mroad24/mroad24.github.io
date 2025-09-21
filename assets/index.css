@@ -1,3 +1,15 @@
+/* title */
+#title-block-header {
+  margin-bottom: 0px;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 700;
+  line-height: 1.1em !important;
+}
+
+
 /* column-page 영역의 최대 너비 해제 및 전체 확장 */
 .quarto-about-broadside .about-main .about-entity {
   background-size: contain;

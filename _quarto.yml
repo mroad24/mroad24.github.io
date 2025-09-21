@@ -18,18 +18,23 @@ website:
   navbar:
     logo: assets/jin/img/logo_wheel.svg
     left:
+      - text: About
+        aria-label: "About"
+        href: about/index.qmd
       - text: Research
         aria-label: "Research"
         href: research.qmd
       - text: Teaching
         aria-label: "Teaching"
         href: teaching.qmd
+      - text: AI
+        aria-label: "AI in Education"
+        href: aiinedu.qmd
+        
+    right:
       - text: CV
         aria-label: "CV"
         href: cv.qmd
-      - text: About
-        aria-label: "About"
-        href: about.qmd
         
   page-footer: 
     left: >-

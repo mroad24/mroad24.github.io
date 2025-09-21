@@ -1,12 +1,13 @@
 ---
 title: "Educator & Researcher"
 subtitle: Educator • Researcher 
-image: assets/image/yj_profile.JPG
-image-alt: "Professional headshot of a man smiling in a cardigan and button-up shirt"
+
 about:
   template: trestles
-  image-width: 14em
-  image-shape: rounded
+  image: image/yj_profile.JPG
+  image-alt: "Professional headshot of a man smiling in a cardigan and button-up shirt"
+  image-width: 8em
+  image-shape: round
   id: hero-heading
   links:
     - icon: linkedin
@@ -17,7 +18,7 @@ about:
       aria-label: GitHub
       href: https://github.com/Yongjin-L
       target: _blank
-    - text: '<img src="assets/icon/medium.svg" alt="Medium" style="color:#002c59; width:1em; vertical-align:middle;">'
+    - text: '<img src="https://c.animaapp.com/mfptji93U7y9km/img/medium.svg" alt="Medium" style="color:#002c59; width:1em; vertical-align:middle;">'
       href: https://medium.com/@yongjinL
       aria-label: Medium
       target: _blank
@@ -29,12 +30,14 @@ about:
       aria-label: Email
       href: mailto:mroad24@gmail.com
       target: _blank
+      
 
+page-layout: full
 
 header-includes: >
-  <link rel="stylesheet" href="../assets/about.css">
+  <link rel="stylesheet" href="../about/about.css">
 resources:
-  - ../assets/about.css    
+  - ../about/about.css    
       
       
 ---
@@ -53,14 +56,20 @@ Get in touch by [sending me a note](/contact.qmd)! {{< fa feather-pointed >}}
 
 :::
 
+<br><br>
 
-## Core Expertise
+<div class="h2">Core Expertise</div>
 
 
+
+<img src="image/research_interest.png" alt="Research interest" 
+     style="width:20em; display:block; margin:0 auto;">
 
 ::: {.grid}
 
 ::: {.g-col-4 #about-me-1}
+
+<img src="image/holistic.png" alt="Icon 1" style="width:4em; vertical-align:middle; margin-right:0.3em;">
 
 **PE for Holistic Student Development**
 
@@ -73,6 +82,8 @@ Character building, self-compassion, and meaningful learning experiences for all
 
 ::: {.g-col-4 #about-me-2}
 
+<img src="image/self-reflection.png" alt="Icon 1" style="width:4em; vertical-align:middle; margin-right:0.3em;">
+
 **Reflective Practice & Self-Study**
 
 Self-study methodologies  
@@ -83,6 +94,8 @@ Qualitative research methodologies and professional development frameworks
 :::
 
 ::: {.g-col-4 #about-me-3}
+
+<img src="image/ai-technology.png" alt="Icon 1" style="width:4em; vertical-align:middle; margin-right:0.3em;">
 
 **AI-Enhanced Education**
 
@@ -96,5 +109,8 @@ Integrating cutting-edge AI technologies into educational practice and research
 :::
 <!-- end grid -->
 
+<br>
 
-## Lately ...
+<div class="h2">Lately</div>
+
+<br>

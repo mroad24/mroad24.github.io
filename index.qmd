@@ -1,17 +1,16 @@
 ---
 title: "Yongjin Lee, PhD"
+pagetitle: "Yongjin Lee, PhD"
+subtitle: "Educator • Researcher • Innovator"
+
 about:
   id: hero-heading
   template: broadside
   image: assets/image/yj_illust.png
 
-
-pagetitle: "Yongjin Lee, PhD"
-subtitle: "Educator • Researcher • Innovator"
-
-format:
-  html:
-    css: assets/index.css
+page-layout: full
+resources:
+    - assets/index.css
 ---
 
 <br><br>
@@ -21,6 +20,11 @@ format:
 I **“listen, reflect, and act.”** As an educator and researcher in physical education, I listen to students’ and teachers’ experiences, reflect critically to deepen understanding, and act through teaching, scholarship, and dissemination to enrich educational practice.
 
 My current work focuses on **social and emotional learning in physical education**, where I integrate philosophical inquiry, practical pedagogy, and innovative technologies. My goal is to bridge theory, practice, and innovation to enhance the educational experiences of both teachers and students.
+
+
+
+[Learn more about me &rarr;](/about/index.qmd){.subtitle}
+
 
 :::
 <!-- hero-heading -->

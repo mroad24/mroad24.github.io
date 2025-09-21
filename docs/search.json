@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Yongjin Lee, PhD",
     "section": "",
-    "text": "I “listen, reflect, and act.” As an educator and researcher in physical education, I listen to students’ and teachers’ experiences, reflect critically to deepen understanding, and act through teaching, scholarship, and dissemination to enrich educational practice.\nMy current work focuses on social and emotional learning in physical education, where I integrate philosophical inquiry, practical pedagogy, and innovative technologies. My goal is to bridge theory, practice, and innovation to enhance the educational experiences of both teachers and students.\n\n  \n\n\n\n\n\n\n\n Back to top"
+    "text": "I “listen, reflect, and act.” As an educator and researcher in physical education, I listen to students’ and teachers’ experiences, reflect critically to deepen understanding, and act through teaching, scholarship, and dissemination to enrich educational practice.\nMy current work focuses on social and emotional learning in physical education, where I integrate philosophical inquiry, practical pedagogy, and innovative technologies. My goal is to bridge theory, practice, and innovation to enhance the educational experiences of both teachers and students.\nLearn more about me →\n\n  \n\n\n\n\n\n\n\n Back to top"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "Educator & Researcher",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+    "text": "Hello! It’s nice to meet you\n\nThanks for stopping by!\nI work as a data scientist at the Urban Health Lab at the University of Pennsylvania. My research interests include applications of biomedical and spatial data science in the public and population health fields.\nMy current projects use electronic health record (EHR) and geospatial data to explore how the neighborhood environment and access to urban nature can impact the health of individuals in Philadelphia. Learn more about my research interests in publications.\nGet in touch by sending me a note! {{&lt; fa feather-pointed &gt;}}"
   },
   {
     "objectID": "research.html#ai-in-education",
@@ -47,5 +47,47 @@
     "title": "Yongjin Lee, PhD",
     "section": "Ready to Innovate Together",
     "text": "Ready to Innovate Together\nPassionate about transforming education through the thoughtful integration of AI, grounded in years of classroom experience and rigorous research."
+  },
+  {
+    "objectID": "aiinedu.html",
+    "href": "aiinedu.html",
+    "title": "Ai in Education",
+    "section": "",
+    "text": "Back to top"
+  },
+  {
+    "objectID": "about.html#core-expertise",
+    "href": "about.html#core-expertise",
+    "title": "Educator & Researcher",
+    "section": "Core Expertise",
+    "text": "Core Expertise\n\n\nPE for Holistic Student Development\n10 years K-12 teaching\nFoundation in holistic learning\nCharacter building, self-compassion, and meaningful learning experiences for all students\n\n\nReflective Practice & Self-Study\nSelf-study methodologies\nQualitative research expertise\nQualitative research methodologies and professional development frameworks\n\n\nAI-Enhanced Education\nRAG, LDA technologies Innovation in education\nIntegrating cutting-edge AI technologies into educational practice and research"
+  },
+  {
+    "objectID": "about.html#lately",
+    "href": "about.html#lately",
+    "title": "Educator & Researcher",
+    "section": "Lately …",
+    "text": "Lately …"
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "Educator & Researcher",
+    "section": "",
+    "text": "Hello! It’s nice to meet you\n\nThanks for stopping by!\nI work as a data scientist at the Urban Health Lab at the University of Pennsylvania. My research interests include applications of biomedical and spatial data science in the public and population health fields.\nMy current projects use electronic health record (EHR) and geospatial data to explore how the neighborhood environment and access to urban nature can impact the health of individuals in Philadelphia. Learn more about my research interests in publications.\nGet in touch by sending me a note! {{&lt; fa feather-pointed &gt;}}\n\n\n\n\n\nCore Expertise\n\n\n\n\n\nPE for Holistic Student Development\n10 years K-12 teaching\nFoundation in holistic learning\nCharacter building, self-compassion, and meaningful learning experiences for all students\n\n\n\nReflective Practice & Self-Study\nSelf-study methodologies\nQualitative research expertise\nQualitative research methodologies and professional development frameworks\n\n\n\nAI-Enhanced Education\nRAG, LDA technologies Innovation in education\nIntegrating cutting-edge AI technologies into educational practice and research\n\n\n\n\n\nLately\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "about/index.html#core-expertise",
+    "href": "about/index.html#core-expertise",
+    "title": "Educator & Researcher",
+    "section": "Core Expertise",
+    "text": "Core Expertise\n\n\n\n\nPE for Holistic Student Development\n10 years K-12 teaching\nFoundation in holistic learning\nCharacter building, self-compassion, and meaningful learning experiences for all students\n\n\n\nReflective Practice & Self-Study\nSelf-study methodologies\nQualitative research expertise\nQualitative research methodologies and professional development frameworks\n\n\n\nAI-Enhanced Education\nRAG, LDA technologies Innovation in education\nIntegrating cutting-edge AI technologies into educational practice and research"
+  },
+  {
+    "objectID": "about/index.html#lately",
+    "href": "about/index.html#lately",
+    "title": "Educator & Researcher",
+    "section": "Lately …",
+    "text": "Lately …"
   }
 ]
