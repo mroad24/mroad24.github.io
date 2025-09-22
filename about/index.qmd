@@ -1,5 +1,5 @@
 ---
-title: "Educator & Researcher"
+title: "Yongjin Lee Ph.D"
 subtitle: Educator • Researcher 
 
 about:
@@ -52,7 +52,7 @@ I work as a data scientist at the [Urban Health Lab](https://www.urbanhealthlab.
 
 My current projects use electronic health record (EHR) and geospatial data to explore how the neighborhood environment and access to urban nature can impact the health of individuals in Philadelphia. Learn more about my research interests in [publications](/publication).
 
-Get in touch by [sending me a note](/contact.qmd)! {{< fa feather-pointed >}}
+Get in touch by [sending me a note](/contact.qmd)!
 
 :::
 
@@ -109,8 +109,28 @@ Integrating cutting-edge AI technologies into educational practice and research
 :::
 <!-- end grid -->
 
+<!-- Lately Work -->
 <br>
-
 <div class="h2">Lately</div>
 
+<a herf="">
+<div class="projects-header" style="display: flex; justify-content: space-between; align-items: center;">
+  <div class="h3">Projects</div>
+  <div class="textlink"><a href="/presentation.qmd">See more projects →</a></div>
+</div></a>
+
 <br>
+
+
+<!-- Lately Publication -->
+
+<div class="projects-header" style="display: flex; justify-content: space-between; align-items: center;">
+  <div class="h3">Publications</div>
+  <div class="textlink"><a href="/research.qmd">See more publications →</a></div>
+</div>
+
+
+- Lee, Y., & Sneed, P. (2025 - accepted). Bridging affective-reflective theory and social ecological model for effective social and emotional learning in physical education, Strategies, in press.
+- Lee, Y., & Dyson, B. (2025). AI enhances, not outdates, self-study research: A practical guide to integrating AI into research methodology, Journal of Teaching Physical Education, online first, 1-6. https://doi.org/10.1123/jtpe.2024-0417
+
+<!-- End Lately Work -->

@@ -1,27 +1,28 @@
 /*-- scss:defaults --*/
 
-@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text&family=Source+Sans+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@400;500;700&display=swap');
+
 
 //Fonts
 
 // stylelint-disable-next-line value-keyword-case
-$font-family-sans-serif:     "Red Hat Text", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-family-sans-serif: "Red Hat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 // $font-family-serif: "Petrona", serif,;
-$headings-font-weight:       400;
+$headings-font-weight: 400;
 
 $font-family-monospace:      "Dank Mono", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 
-$headings-font-family:       "Petrona";
+$headings-font-family:       "Red Hat";
 
 
 .navbar {
-  font-family: 'Red Hat Text';
+  font-family: 'Red Hat';
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
 
 .navbar-brand {
-  font-family: 'Red Hat Text';
+  font-family: 'Red Hat';
   font-size: 1rem !important;  /* 원하는 크기로 */
   font-weight: bold;
   text-transform: uppercase; /* 대문자 안 바꾸려면 */

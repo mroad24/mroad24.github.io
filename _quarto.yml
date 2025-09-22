@@ -16,20 +16,22 @@ website:
       issue-term: title
       
   navbar:
-    logo: assets/jin/img/logo_wheel.svg
     left:
       - text: About
         aria-label: "About"
         href: about/index.qmd
       - text: Research
         aria-label: "Research"
-        href: research.qmd
+        href: research/index.qmd
       - text: Teaching
         aria-label: "Teaching"
-        href: teaching.qmd
+        href: teaching/index.qmd
       - text: AI
         aria-label: "AI in Education"
-        href: aiinedu.qmd
+        href: ai_in_edu/index.qmd
+      - text: Projects
+        aria-label: "Projects"
+        href: projects/index.qmd
         
     right:
       - text: CV

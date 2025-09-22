@@ -1,5 +1,5 @@
 ---
-title: "Educator & Researcher"
+title: "Yongjin Lee Ph.D"
 subtitle: Educator • Researcher 
 image: assets/image/yj_profile.JPG
 image-alt: "Professional headshot of a man smiling in a cardigan and button-up shirt"
