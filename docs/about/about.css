@@ -4,38 +4,47 @@
 }
 
 .title{
-  font-size: 2rem !important;
-  font-weight: 300 !important;
+  font-family: "Red Hat Text" !important;
+  font-size: 2em !important;
+  font-weight: 500 !important;
   line-height: 1.2em !important;
   letter-spacing: -0.025em !important;
 }
 
 .h1{
-  font-size: 3rem !important;
-  font-weight: 300 !important;
+  font-family: "Red Hat Text" !important;
   line-height: 1em !important;
   letter-spacing: -0.05em !important;
 }
   
 .h2{
-  font-size: 2.25rem !important;
-  font-weight: 300 !important;
+  font-family: "Red Hat Text" !important;
+
   line-height: 1em !important;
   letter-spacing: -0.05em !important;
 }
-  
-  
 
-/* see all links */
-.about-links.subtitle {
-  font-family: "Red Hat Text"
+.about-sns-link {
+  display: inline-flex !important;
+  align-items: center;
+  text-decoration: none;
+  font-family: 'Red Hat Text', Helvetica, sans-serif;
+  font-size: 16px;
+  transition: filter 0.3s ease;
+  white-space: nowrap;
 }
+
+a:hover .about-sns-link {
+  filter: invert(36%) sepia(75%) saturate(650%) hue-rotate(190deg) brightness(95%) contrast(90%);
+}
+
 
 /* social links: block of links */
 .about-entity .about-links {
   justify-content: center !important;
   column-gap: 0em !important;
   font-size: 1.2em !important;
+
 }
 
 /* social links: individual links */
@@ -51,7 +60,17 @@
   padding: 3em 0em 3em 0em !important;
   margin: 0em 2em 0em 2em;
   border-radius: 5px;
-  flex: 1 1 0 !important;
+  max-width: 100% !important;
+  justify-content: center !important;
+}
+
+.about-contents{
+  max-width: 100%;
+}
+
+/* trestles 템플릿 가운데 세로줄 없애기 */
+.quarto-about-trestles .about-contents  {
+  border-left: none !important;
 }
 
 #about-me-1 {
@@ -78,25 +97,39 @@
   padding: 2em 2em 2em 2em !important;
 }
 
+.btn-container {
+  display: flex;
+  justify-content: center; /* 수평 중앙 정렬 */
+  margin-top: 2rem;        /* 위쪽 여백 (필요시 조절) */
+}
+
+.btn-container a.btn-custom {
+  font-family: "Red Hat Text";
+  font-weight: 600;
+  font-size: 1.1rem;
+  padding: 0.5em 1.2em;
+  border-radius: 5px;
+  background-color: #002D59; /* 원하는 배경색 */
+  color: white;             /* 글자색 */
+  border: none;
+}
+
+.btn-container a.btn-custom:hover {
+  opacity: 0.8; /* 호버 시 색상 */
+}
+
 
 /* mobile query up for screens up to ~992px wide */
 @media screen and (max-width: 991.98px) {
-  /* wrap lately section */
-  #lately .grid {
-    display: flex;
-    flex-wrap: wrap;
-  }
-  
-  /* listings */
-  #blog, #talks, #publications, #projects {
-    flex-basis: 40% !important;
-    flex-grow: 1;
+  .about-entity .about-links{
+    flex-direction: row !important;
   }
 
   /* social links: block of links */
   .about-entity .about-links {
     font-size: 1.2em !important;
   }
+  
 }
 
 /* mobile query up for screens up to ~576px wide */
@@ -107,12 +140,11 @@
     display: flex;
     flex-wrap: wrap;
   }
-
-  /* wrap lately section */
-  #lately .grid {
-    display: flex;
-    flex-wrap: wrap;
+  
+  .about-entity {
+    min-width: full;
   }
+
 
   /* listings */
   #blog, #talks, #publications, #projects {
@@ -128,4 +160,13 @@
   .about-entity {
     margin: 0em 0em 0em 0em;
   }
+  
+  /* 모바일 등 작은 화면에서도 아이콘 가로배치 유지 */
+.about-sns-link {
+  flex-wrap: nowrap !important;
+}
+.about-entity .about-links {
+  flex-wrap: nowrap !important;
+}
+  
 }

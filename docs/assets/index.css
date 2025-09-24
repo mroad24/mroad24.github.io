@@ -1,25 +1,32 @@
 /* title */
-#title-block-header {
-  margin-bottom: 0px;
-}
-
 .title {
-  font-size: 3rem;
+  font-size: 2.2rem;
   font-weight: 700;
   line-height: 1.1em !important;
 }
 
-
-/* column-page 영역의 최대 너비 해제 및 전체 확장 */
-.quarto-about-broadside .about-main .about-entity {
-  background-size: contain;
-  max-width: none !important;
-  width: 80% !important;
-  margin-right: 3rem !important;
-  margin-bottom: 1rem !important;
+/* subtitle + Learn More About Me */
+.subtitle {
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
 }
 
-.quarto-about-broadside .about-main .about-contents {
-  color: #002c59 !important;
-  margin-top: 2rem !important;
+#hero-heading {
+  width: 30em;      /* 원하는 너비(px, %, em 가능) */
+  margin-left: auto;
+  margin-right: auto; /* 블록을 페이지 중앙에 배치 */
+  align-content: center;
+  text-align: center;
 }
+
+#title-block-header {
+  text-align: center;
+}
+.about-image, #hero-heading img {
+  background-color: #f1f2f6; /* 원하는 색상으로 수정 */
+
+}
+
+

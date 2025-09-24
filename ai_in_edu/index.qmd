@@ -1,3 +1,86 @@
 ---
-title: "Ai in Education"
+title: "AI in Education"
+subtitle: "We focus on advancing our understanding of children’s learning and cognition in the context of AI, aiming to ensure that AI serves as a positive force in children’s development while mitigating risks."
+title-block-banner: true
+
+page-layout: full
+
+header-includes: >
+  <link rel="stylesheet" href="../ai_in_edu/ai-in-edu.css">
+resources:
+  - ../ai_in_edu/ai-in-edu.css
 ---
+
+<!-- start grid -->
+::: {.grid}
+
+::: {.g-col-6 #ai-in-edu-1}
+
+<img src="image/ai_in_edu_001.png" style="width: 100%; height: auto; border-radius: 1rem;" />
+
+:::
+
+::: {.g-col-6 #ai-in-edu-2}
+
+<div class="h2">**Teacher Development : AI-Enhanced Teacher Training**</div>
+
+Professional development program integrating AI tools for educators  Professional development program integrating AI tools for educators 
+
+
+- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">NBN Workflows</a>
+- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">App scripts for Google</a>
+
+:::
+
+:::
+<!-- end grid -->
+
+<!-- start grid -->
+::: {.grid}
+
+::: {.g-col-6 #ai-in-edu-1}
+
+<div class="h2">**Curriculum Tools :  AI-Powered Learning Platform**</div>
+
+Professional development program integrating AI tools for educators  Professional development program integrating AI tools for educators 
+
+
+- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">Machine Learning in PE Teachable Machine</a>
+- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">Right RAG Graph Knowledge</a>
+
+
+:::
+
+::: {.g-col-6 #ai-in-edu-2}
+
+<img src="image/ai_in_edu_002.png" style="width: 100%; height: auto; border-radius: 1rem;" />
+:::
+
+
+:::
+<!-- end grid -->
+
+<!-- start grid -->
+::: {.grid}
+
+::: {.g-col-6 #ai-in-edu-1}
+
+<img src="image/ai_in_edu_003.png" style="width: 100%; height: auto; border-radius: 1rem;" />
+
+:::
+
+::: {.g-col-6 #ai-in-edu-2}
+
+<div class="h2">**Research Innovation :  RAG-Enhanced Analysis**</div>
+
+Professional development program integrating AI tools for educators  Professional development program integrating AI tools for educators 
+
+
+- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">Right RAG Graph Knowledge</a>
+- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">NLP LPA  Traditional Machine Learning</a>
+
+:::
+
+:::
+<!-- end grid -->
+

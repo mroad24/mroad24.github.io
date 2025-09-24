@@ -26,17 +26,13 @@ website:
       - text: Teaching
         aria-label: "Teaching"
         href: teaching/index.qmd
-      - text: AI
+      - text: AI in Education
         aria-label: "AI in Education"
         href: ai_in_edu/index.qmd
-      - text: Projects
-        aria-label: "Projects"
-        href: projects/index.qmd
-        
-    right:
       - text: CV
         aria-label: "CV"
         href: cv.qmd
+        
         
   page-footer: 
     left: >-

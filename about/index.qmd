@@ -9,26 +9,26 @@ about:
   image-width: 8em
   image-shape: round
   id: hero-heading
+
   links:
-    - icon: linkedin
+    - text: '<img class="about-sns-link" src="/assets/icon/mail-icon.svg" width="16" height="16" alt="Email" />'
+      href: mailto:mroad24@gmail.com
+      target: _blank
+    - text: '<img class="about-sns-link" src="/assets/icon/linkedin-mark.svg" width="16" height="16" alt="LinkedIn" />'
       aria-label: "LinkedIn"
       href: https://www.linkedin.com/in/yongjin-lee-973273258/
       target: _blank
-    - icon: github
-      aria-label: GitHub
-      href: https://github.com/Yongjin-L
-      target: _blank
-    - text: '<img src="https://c.animaapp.com/mfptji93U7y9km/img/medium.svg" alt="Medium" style="color:#002c59; width:1em; vertical-align:middle;">'
-      href: https://medium.com/@yongjinL
-      aria-label: Medium
-      target: _blank
-    - text: "{{< ai orcid >}}"
+    - text: '<img class="about-sns-link" src="/assets/icon/orcid-mark.svg" width="16" height="16" alt="Orcid" />'
       aria-label: "Orcid"
       href: https://orcid.org/0000-0001-6301-7203
       target: _blank
-    - icon: envelope
-      aria-label: Email
-      href: mailto:mroad24@gmail.com
+    - text: '<img class="about-sns-link" src="/assets/icon/github-mark.svg" width="16" height="16" alt="GitHub" />'
+      aria-label: GitHub
+      href: https://github.com/Yongjin-L
+      target: _blank
+    - text: '<img class="about-sns-link" src="/assets/icon/medium-mark.svg" width="16" height="16" alt="Medium" />'
+      href: https://medium.com/@yongjinL
+      aria-label: Medium
       target: _blank
       
 
@@ -48,11 +48,11 @@ resources:
 
 Thanks for stopping by!
 
-I work as a data scientist at the [Urban Health Lab](https://www.urbanhealthlab.org/) at the University of Pennsylvania. My research interests include applications of biomedical and spatial data science in the public and population health fields. 
+I **“listen, reflect, and act.”** As an educator and researcher in physical education, I listen to students’ and teachers’ experiences, reflect critically to deepen understanding, and act through teaching, scholarship, and dissemination to enrich educational practice.
+My current work focuses on **social and emotional learning in physical education**, where I integrate philosophical inquiry, practical pedagogy, and innovative technologies. My goal is to bridge theory, practice, and innovation to enhance the educational experiences of both teachers and students. 
 
-My current projects use electronic health record (EHR) and geospatial data to explore how the neighborhood environment and access to urban nature can impact the health of individuals in Philadelphia. Learn more about my research interests in [publications](/publication).
+링크 필요시, [publications](/publication).
 
-Get in touch by [sending me a note](/contact.qmd)!
 
 :::
 
@@ -69,8 +69,6 @@ Get in touch by [sending me a note](/contact.qmd)!
 
 ::: {.g-col-4 #about-me-1}
 
-<img src="image/holistic.png" alt="Icon 1" style="width:4em; vertical-align:middle; margin-right:0.3em;">
-
 **PE for Holistic Student Development**
 
 10 years K-12 teaching  
@@ -81,8 +79,6 @@ Character building, self-compassion, and meaningful learning experiences for all
 :::
 
 ::: {.g-col-4 #about-me-2}
-
-<img src="image/self-reflection.png" alt="Icon 1" style="width:4em; vertical-align:middle; margin-right:0.3em;">
 
 **Reflective Practice & Self-Study**
 
@@ -95,7 +91,6 @@ Qualitative research methodologies and professional development frameworks
 
 ::: {.g-col-4 #about-me-3}
 
-<img src="image/ai-technology.png" alt="Icon 1" style="width:4em; vertical-align:middle; margin-right:0.3em;">
 
 **AI-Enhanced Education**
 
@@ -109,28 +104,8 @@ Integrating cutting-edge AI technologies into educational practice and research
 :::
 <!-- end grid -->
 
-<!-- Lately Work -->
-<br>
-<div class="h2">Lately</div>
-
-<a herf="">
-<div class="projects-header" style="display: flex; justify-content: space-between; align-items: center;">
-  <div class="h3">Projects</div>
-  <div class="textlink"><a href="/presentation.qmd">See more projects →</a></div>
-</div></a>
-
 <br>
 
-
-<!-- Lately Publication -->
-
-<div class="projects-header" style="display: flex; justify-content: space-between; align-items: center;">
-  <div class="h3">Publications</div>
-  <div class="textlink"><a href="/research.qmd">See more publications →</a></div>
+<div class="btn-container">
+  <a href="../research/" class="btn btn-custom">See My Research →</a>
 </div>
-
-
-- Lee, Y., & Sneed, P. (2025 - accepted). Bridging affective-reflective theory and social ecological model for effective social and emotional learning in physical education, Strategies, in press.
-- Lee, Y., & Dyson, B. (2025). AI enhances, not outdates, self-study research: A practical guide to integrating AI into research methodology, Journal of Teaching Physical Education, online first, 1-6. https://doi.org/10.1123/jtpe.2024-0417
-
-<!-- End Lately Work -->

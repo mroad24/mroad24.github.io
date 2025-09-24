@@ -6,23 +6,24 @@
 //Fonts
 
 // stylelint-disable-next-line value-keyword-case
-$font-family-sans-serif: "Red Hat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-family-sans-serif: "Red Hat Text", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 // $font-family-serif: "Petrona", serif,;
 $headings-font-weight: 400;
 
 $font-family-monospace:      "Dank Mono", SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 
-$headings-font-family:       "Red Hat";
+$headings-font-family:       "Red Hat Text";
+
 
 
 .navbar {
-  font-family: 'Red Hat';
+  font-family: 'Red Hat Text';
   text-transform: uppercase;
   letter-spacing: 0.05em;
 }
 
 .navbar-brand {
-  font-family: 'Red Hat';
+  font-family: 'Red Hat Text';
   font-size: 1rem !important;  /* 원하는 크기로 */
   font-weight: bold;
   text-transform: uppercase; /* 대문자 안 바꾸려면 */
@@ -30,6 +31,24 @@ $headings-font-family:       "Red Hat";
   color: #000C49 !important;
   
 }
+
+.nav-link.active .menu-text {
+  text-decoration: underline !important;
+}
+
+
+/* page-footer 내 링크 기본 스타일 */
+.nav-footer a {
+  color: inherit; /* 기본 색상 유지 */
+  transition: color 0.3s ease;
+}
+
+/* hover 시 텍스트 색상 변경 */
+.nav-footer a:hover {
+  color: #1f4eb6cc; /* 원하는 hover 색상으로 변경 */
+}
+
+
 
 .about-entity {
   flex: 1;               /* 좌측 영역 너비: 기존 1 비율 */

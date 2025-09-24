@@ -1,13 +1,67 @@
 ---
 title: "Research"
 subtitle: "We focus on advancing our understanding of children’s learning and cognition in the context of AI, aiming to ensure that AI serves as a positive force in children’s development while mitigating risks."
-title-block-banner: false
+title-block-banner: true
+
+page-layout: full
+
+header-includes: >
+  <link rel="stylesheet" href="../research/research.css">
+resources:
+  - ../research/research.css   
 ---
 
+::: {#hero-heading}
 
-# My Research
+
+<div class="h2">Research Interest</div>
 
 
-## Focus Area
+:::
 
-## AI in Education
+<!-- start topic box -->
+
+::: {.topic-box}
+
+<div class="h3">**Holistic, Reflective, and Transformative Physical Education: World-Centered Education**</div>
+
+Character building, self-compassion, and meaningful learning experiences for all students
+
+- Teacher change
+- Teacher inquiry 
+- AI- and computing-integrated teacher education 
+
+:::
+
+::: {.topic-box}
+<div class="h3">**Reflective Practice with Self-Study Methodologies**</div>
+
+Qualitative research methodologies and professional development frameworks
+Qualitative research methodologies and professional development frameworks
+
+- Multimodal literacy 
+- Supporting marginalized students using a play-based approach 
+- Project-based approach 
+:::
+
+
+::: {.topic-box}
+<div class="h3">**Retrieval-Augmented Generation Enhanced AI Application in Education and Research**</div>
+
+Integrating cutting-edge AI technologies into educational practice and research
+
+- Teacher Development : AI-Enhanced Teacher Training
+- Curriculum Tools : Personalized curriculum design using AI technologies
+- Research Innovation :  AI technologies into educational practice and research 
+                                          (RAG, LDA technologies, Automated qualitative data analysis framework etc.)
+:::
+
+
+<!-- end topic box -->
+
+
+
+<div class="btn-container">
+  <a href="../cv.qmd" class="btn btn-custom">Get More Research Output in CV</a>
+</div>
+

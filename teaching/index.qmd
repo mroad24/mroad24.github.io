@@ -1,3 +1,82 @@
 ---
 title: "Teaching"
+subtitle: "Movement, reflection, and community - the heart of true education"
+title-block-banner: true
+
+page-layout: full
+
+header-includes: >
+  <link rel="stylesheet" href="../teaching/teaching.css">
+resources:
+  - ../teaching/teaching.css   
 ---
+::: {#hero-heading}
+<div class="h2">Teaching Philosophy</div>
+
+I am an educator and researcher developing and implementing physical activity programs and curricula for holistic, agentic, and transformative lifelong journeys. I am an educator and researcher developing and implementing physical activity programs and curricula for holistic, agentic, and transformative lifelong journeys.
+
+:::
+
+
+<!-- start topic box -->
+
+::: {.topic-box}
+<div class="h3">**Reflective Practice and Growth Mindset**</div>
+
+Teaching is a continuous journey of reflection and adaptation.I strive to create an interactive learning environment where both teachers and students grow together.
+
+:::
+
+::: {.topic-box}
+<div class="h3">**Learning Through Movement**</div>
+
+I believe students should take ownership of their learning. I create a classroom environment that respects individual backgrounds, empowers autonomy, and fosters active participation.
+:::
+
+
+::: {.topic-box}
+<div class="h3">**Student-Centered Learning**</div>
+
+I believe students should take ownership of their learning. I create a classroom environment that respects individual backgrounds, empowers autonomy, and fosters active participation.
+:::
+
+
+<!-- end topic box -->
+
+<br><br>
+
+::: {.history-list}
+<div class="h2">Employment</div>
+<div class="h3">Proffesional & Administrative Positions</div>
+
+
+- **Suwon Academy of World Languages** | Physical Education Teacher  
+Mar. 2021 - Jul. 2022
+- **Kwanyang Middle School** | Physical Education Teacher  
+Mar. 2021 - Jul. 2022 
+- **Seoho Middle School** | Physical Education Teacher  
+Mar. 2016 - Feb. 2021 
+:::
+
+<br><br>
+
+::: {.history-list}
+<div class="h2">Higher Education Teaching </div>
+<div class="h3">University of North Carolina Greensboro (2022 - Present)</div><br>
+
+<div class="section-chip"><strong>Teaching</strong></div>
+
+- **KIN 217** Intro to Teaching Physical Education  
+Spring 2023, Spring 2024, Spring 2025
+- **HEA 201** Personal Health  
+Fall 2022, Fall 2023, Fall 2024
+- **KIN 110** Ultimate
+Fall 2022, Spring 2023
+
+<br><div class="section-chip"><strong>Curricular Practical Training</strong></div>
+
+- Investigating Social and Emotional Learning using Cooperative Learning as a pedagogical practice in Middle College Physical Education and Health Education  
+Fall 2024, Spring 2025
+- Restorative Practices for Educators  
+Fall 2024
+:::

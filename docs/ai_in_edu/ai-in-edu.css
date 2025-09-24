@@ -1,0 +1,12 @@
+.h2{
+  border-bottom: none !important;
+}
+
+
+.grid{
+  background-color: #Ffffff !important; /* 첫 번째 영역 배경색 */
+  margin-bottom: 2em !important;        /* 박스 간 간격 */
+  border-bottom: 1px solid !important;
+  border-color: #CDD8E1 !important;
+  padding: 2em 0em 2em 0em !important;
+}
