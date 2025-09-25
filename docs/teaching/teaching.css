@@ -29,7 +29,7 @@
 .section-chip {
   display: inline-block;
   padding: 0.25em 0.75em;
-  border-radius: 8px;
+  border-radius: 0.75rem;
   background-color: #EFF3F7;
   color: #002D59;
   font-weight: 600;
