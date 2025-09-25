@@ -11,76 +11,49 @@ resources:
   - ../ai_in_edu/ai-in-edu.css
 ---
 
+
 <!-- start grid -->
-::: {.grid}
 
-::: {.g-col-6 #ai-in-edu-1}
+<div class="card-list">
 
-<img src="image/ai_in_edu_001.png" style="width: 100%; height: auto; border-radius: 1rem;" />
-
-:::
-
-::: {.g-col-6 #ai-in-edu-2}
-
+<!-- first card -->
+<div class="card-row">
+<img src="image/ai_in_edu_001.png" class="card-img" alt="AI Teacher Development" />
+<div class="card-text">
 <div class="h2">**Teacher Development : AI-Enhanced Teacher Training**</div>
 
 Professional development program integrating AI tools for educators  Professional development program integrating AI tools for educators 
 
-
 - <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">NBN Workflows</a>
-- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">App scripts for Google</a>
+- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">App scripts for Google</a> 
+</div>
+</div>
 
-:::
-
-:::
-<!-- end grid -->
-
-<!-- start grid -->
-::: {.grid}
-
-::: {.g-col-6 #ai-in-edu-1}
-
+<!-- second card -->
+<div class="card-row alt">
+<div class="card-text">
 <div class="h2">**Curriculum Tools :  AI-Powered Learning Platform**</div>
 
 Professional development program integrating AI tools for educators  Professional development program integrating AI tools for educators 
 
+- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">NBN Workflows</a>
+- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">App scripts for Google</a> 
+</div>
+<img src="image/ai_in_edu_002.png" class="card-img" alt="Curriculum Tools" />
+</div>
 
-- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">Machine Learning in PE Teachable Machine</a>
-- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">Right RAG Graph Knowledge</a>
-
-
-:::
-
-::: {.g-col-6 #ai-in-edu-2}
-
-<img src="image/ai_in_edu_002.png" style="width: 100%; height: auto; border-radius: 1rem;" />
-:::
-
-
-:::
-<!-- end grid -->
-
-<!-- start grid -->
-::: {.grid}
-
-::: {.g-col-6 #ai-in-edu-1}
-
-<img src="image/ai_in_edu_003.png" style="width: 100%; height: auto; border-radius: 1rem;" />
-
-:::
-
-::: {.g-col-6 #ai-in-edu-2}
-
+<!-- third card -->
+<div class="card-row">
+<img src="image/ai_in_edu_003.png" class="card-img" alt="Research Innovation" />
+<div class="card-text">
 <div class="h2">**Research Innovation :  RAG-Enhanced Analysis**</div>
 
 Professional development program integrating AI tools for educators  Professional development program integrating AI tools for educators 
 
+- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">NBN Workflows</a>
+- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">App scripts for Google</a> 
+</div>
+</div>
 
-- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">Right RAG Graph Knowledge</a>
-- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">NLP LPA  Traditional Machine Learning</a>
 
-:::
-
-:::
 <!-- end grid -->
-
