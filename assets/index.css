@@ -2,8 +2,11 @@ body {
   overflow-x: hidden;
 }
 
-.quarto-about-jolla{
-  max-width: 100% !important;
+/* Quarto about 템플릿 컨테이너 기본 반응형 유지 */
+.quarto-about-jolla {
+  max-width: 100%; /* 템플릿 기본 제한 제거 */
+  margin: 0 auto;
+  padding: 0 1rem;  /* 좌우 여백 확보 */
 }
 
 /* title */
@@ -21,35 +24,8 @@ body {
   letter-spacing: 0.1em;
 }
 
-
-#hero-heading {
-  width: 90%;      /* 원하는 너비(px, %, em 가능) */
-  max-width: 38rem;
-  margin: 0 auto;     /* 가운데 정렬 */
+#hero-heading{
+  align-content: center;
   text-align: center;
 }
 
-#title-block-header {
-  text-align: center;
-}
-.about-image, #hero-heading img {
-  background-color: #f1f2f6; /* 원하는 색상으로 수정 */
-
-}
-
-
-/* mobile query up for screens up to ~992px wide */
-@media screen and (max-width: 991.98px) {
-  #hero-heading {
-    width: 95%;       /* 작은 화면에서는 거의 전체 너비 */
-    padding: 0 1rem;  /* 좌우 여백 확보 */
-  }
-
-}
-
-/* mobile query up for screens up to ~576px wide */
-@media screen and (max-width: 576px) {
-
- 
-  
-}
