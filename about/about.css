@@ -3,6 +3,7 @@
   margin-bottom: 0px;
 }
 
+
 .title{
   font-family: "Red Hat Text" !important;
   font-size: 2em !important;
@@ -44,6 +45,7 @@ a:hover .about-sns-link {
   justify-content: center !important;
   column-gap: 0em !important;
   font-size: 1.2em !important;
+  margin-top: 0.5em !important;
 
 }
 

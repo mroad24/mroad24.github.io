@@ -40,7 +40,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-5796e3eb9ea01e45975d7246408f328b.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-d5f955312a6c45a2afd66b461c5ea219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-39709b7c9c5a51bd5bbd8a2c3681f262.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -218,16 +218,16 @@ Fall 2022, Fall 2023, Fall 2024</li>
 <strong>Curricular Practical Training</strong>
 </div>
 <ul>
-<li>Investigating Social and Emotional Learning using Cooperative Learning as a pedagogical practice in Middle College Physical Education and Health Education<br>
+<li><strong>Investigating Social and Emotional Learning using Cooperative Learning as a pedagogical practice in Middle College Physical Education and Health Education</strong><br>
 Fall 2024, Spring 2025</li>
-<li>Restorative Practices for Educators<br>
+<li><strong>Restorative Practices for Educators</strong><br>
 Fall 2024</li>
 </ul>
 </div>
 
 
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+</main> <!-- /main -->
 <!-- 웹폰트 추가 (Google Fonts 사용 예시) -->
 <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@400;500;700&amp;display=swap" rel="stylesheet">
 
@@ -236,7 +236,8 @@ Fall 2024</li>
   width: 100%;
   background: #eef2f7;
   padding: 4rem 1rem 1rem 1rem;
-  position: relative;
+  position: block;
+  z-index: 1; /* 낮은 값 지정 */
   opacity: 0;
   transform: translateY(-1rem);
   animation: fade-in 1s 0ms forwards;
@@ -250,9 +251,9 @@ Fall 2024</li>
   flex-direction: column;
   align-items: flex-start;
   gap: 2rem;
-  opacity: 0;
+  /*opacity: 0;
   transform: translateY(-1rem);
-  animation: fade-in 1s 0.2s forwards;
+  animation: fade-in 1s 0.2s forwards;*/
 }
 .footer-headline {
   font-family: 'Red Hat Text', Helvetica, serif;
@@ -277,15 +278,35 @@ Fall 2024</li>
 .footer-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 14px;
+  justify-content: space-between;
+  align-items: center;   
+  width: 100%;  
   opacity: 0;
   transform: translateY(-1rem);
   animation: fade-in 1s 0.4s forwards;
 }
+
+.footer-links-sns{
+  display: flex;
+  gap: 0.75rem;
+}
+
+.footer-back-to-top {
+  color: #343A40;
+}
+
+.footer-back-to-top a {
+  text-decoration: none; /* 밑줄 제거 */
+}
+
+.footer-back-to-top:hover {
+  color: #1f4eb6cc;
+}
+
 .footer-link {
   display: inline-flex;
   align-items: center;
-  gap: 7px;
+  gap: 0.5rem;
   text-decoration: none;
   color: #343A40;
   font-family: 'Red Hat Text', Helvetica, sans-serif;
@@ -334,6 +355,7 @@ Fall 2024</li>
     transform: translateY(0);
   }
 }
+
 </style>
 
 <footer class="footer">
@@ -345,14 +367,13 @@ Fall 2024</li>
           Passionate about transforming education through the thoughtful
           integration of AI, grounded in years of classroom experience and
           rigorous research.
+          <br>
+          If you want to discuss with me, please mail to <img class="about-sns-link" src="../assets/icon/mail-icon.svg" width="16" height="16" alt="Email"> <b>y_lee10@uncg.edu</b>
         </p>
       </div>
       <div class="footer-links">
-        <!-- Email -->
-        <a href="#" class="footer-link" target="_blank">
-          <img src="../assets/icon/mail-icon.svg" width="16" height="16" alt="Medium">
-          Email
-        </a>
+        <div class="footer-links-sns">
+        
         <!-- LinkedIn -->
         <a href="https://www.linkedin.com/in/yongjin-lee-973273258/" class="footer-link" target="_blank">
           <img src="../assets/icon/linkedin-mark.svg" width="16" height="16" alt="Medium">
@@ -373,20 +394,15 @@ Fall 2024</li>
           <img src="../assets/icon/medium-mark.svg" width="16" height="16" alt="Medium">
           Medium
         </a>
+        </div>
+        <div class="footer-back-to-top">
+        <!-- 추가: Back to top 텍스트 버튼 -->
+        <a href="#" id="quarto-back-to-top-link" class="footer-back-to-top" style="margin-left:auto; cursor:pointer;">
+         Back to top ↑
+        </a>
+        </div>
       </div>
     </div>
-
-    <!--<div class="footer-bottom">-->
-      <!--<div class="footer-copy">
-        © 2025 Yongjin Lee ∙ Made with 
-        <a href="https://quarto.org/" target="_blank" rel="noopener noreferrer">Quarto</a>
-      </div>
-      <div class="footer-license">
-        <a href="#">License</a>
-        &nbsp; | &nbsp;
-        <a href="#">RSS</a>
-      </div>
-    </div>-->
   </div>
 </footer>
 <script id="quarto-html-after-body" type="application/javascript">

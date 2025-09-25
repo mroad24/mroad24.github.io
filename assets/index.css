@@ -1,3 +1,7 @@
+.quarto-about-jolla{
+  max-width: 10rem !important;
+}
+
 /* title */
 .title {
   font-size: 2.2rem;
@@ -13,8 +17,9 @@
   letter-spacing: 0.1em;
 }
 
+
 #hero-heading {
-  width: 30em;      /* 원하는 너비(px, %, em 가능) */
+  width: 50%;      /* 원하는 너비(px, %, em 가능) */
   margin-left: auto;
   margin-right: auto; /* 블록을 페이지 중앙에 배치 */
   align-content: center;
@@ -28,5 +33,3 @@
   background-color: #f1f2f6; /* 원하는 색상으로 수정 */
 
 }
-
-

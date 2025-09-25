@@ -9,7 +9,7 @@ about:
   image: assets/image/yj_illust.png
   
   
-
+page-layout: full
 header-includes: >
   <link rel="stylesheet" href="../assets/index.css">
 resources:
@@ -24,10 +24,9 @@ resources:
 As a physical education educator and researcher, I listen, reflect, and act to advance social and emotional learning through the integration of theory, practice, and innovation.
 
 
-[Learn more about me &rarr;](/about/index.qmd){.subtitle}
+[**Learn more about me &rarr;**](/about/index.qmd)
 
 
 :::
 <!-- hero-heading -->
-
 

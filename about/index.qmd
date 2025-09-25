@@ -10,10 +10,8 @@ about:
   image-shape: round
   id: hero-heading
 
+
   links:
-    - text: '<img class="about-sns-link" src="/assets/icon/mail-icon.svg" width="16" height="16" alt="Email" />'
-      href: mailto:mroad24@gmail.com
-      target: _blank
     - text: '<img class="about-sns-link" src="/assets/icon/linkedin-mark.svg" width="16" height="16" alt="LinkedIn" />'
       aria-label: "LinkedIn"
       href: https://www.linkedin.com/in/yongjin-lee-973273258/
@@ -37,7 +35,11 @@ page-layout: full
 header-includes: >
   <link rel="stylesheet" href="../about/about.css">
 resources:
-  - ../about/about.css    
+  - ../about/about.css   
+  
+description: |
+    <p><img class="about-sns-link" src="/assets/icon/mail-icon.svg" width="16" height="16" alt="Email" /> <b>y_lee10@uncg.edu</b></p>
+ 
       
       
 ---
@@ -67,7 +69,7 @@ My current work focuses on **social and emotional learning in physical education
 
 ::: {.grid}
 
-::: {.g-col-4 #about-me-1}
+::: {.g-col-12 .g-col-lg-4 #about-me-1}
 
 **PE for Holistic Student Development**
 
@@ -78,7 +80,7 @@ Character building, self-compassion, and meaningful learning experiences for all
 
 :::
 
-::: {.g-col-4 #about-me-2}
+::: {.g-col-12 .g-col-lg-4 #about-me-2}
 
 **Reflective Practice & Self-Study**
 
@@ -89,7 +91,7 @@ Qualitative research methodologies and professional development frameworks
 
 :::
 
-::: {.g-col-4 #about-me-3}
+::: {.g-col-12 .g-col-lg-4 #about-me-3}
 
 
 **AI-Enhanced Education**

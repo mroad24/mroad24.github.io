@@ -6,6 +6,7 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content=" y_lee10@uncg.edu">
 
 <title>Yongjin Lee Ph.D – Yongjin Lee</title>
 <style>
@@ -39,7 +40,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-5796e3eb9ea01e45975d7246408f328b.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-d5f955312a6c45a2afd66b461c5ea219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-39709b7c9c5a51bd5bbd8a2c3681f262.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -139,13 +140,17 @@ ul.task-list li input[type="checkbox"] {
 <h1 class="title">Yongjin Lee Ph.D</h1>
 <p class="subtitle lead">Educator • Researcher</p>
 </div>
+<div>
+  <div class="description">
+    <p>
+    <img class="about-sns-link" src="../assets/icon/mail-icon.svg" width="16" height="16" alt="Email"> <b>y_lee10@uncg.edu</b>
+    </p>
+  </div>
+</div>
 <div class="quarto-title-meta column-page">
   </div>
 </header>
     <div class="about-links">
-  <a href="mailto:mroad24@gmail.com" class="about-link" rel="" target="_blank">
-     <span class="about-link-text"><img class="about-sns-link" src="/assets/icon/mail-icon.svg" width="16" height="16" alt="Email"></span>
-  </a>
   <a href="https://www.linkedin.com/in/yongjin-lee-973273258/" class="about-link" rel="" target="_blank">
      <span class="about-link-text"><img class="about-sns-link" src="/assets/icon/linkedin-mark.svg" width="16" height="16" alt="LinkedIn"></span>
   </a>
@@ -176,19 +181,19 @@ Core Expertise
 </div>
 <p><img src="image/research_interest.png" alt="Research interest" style="width:20em; display:block; margin:0 auto;"></p>
 <div class="grid">
-<div id="about-me-1" class="g-col-4">
+<div id="about-me-1" class="g-col-12 g-col-lg-4">
 <p><strong>PE for Holistic Student Development</strong></p>
 <p>10 years K-12 teaching<br>
 Foundation in holistic learning</p>
 <p>Character building, self-compassion, and meaningful learning experiences for all students</p>
 </div>
-<div id="about-me-2" class="g-col-4">
+<div id="about-me-2" class="g-col-12 g-col-lg-4">
 <p><strong>Reflective Practice &amp; Self-Study</strong></p>
 <p>Self-study methodologies<br>
 Qualitative research expertise</p>
 <p>Qualitative research methodologies and professional development frameworks</p>
 </div>
-<div id="about-me-3" class="g-col-4">
+<div id="about-me-3" class="g-col-12 g-col-lg-4">
 <p><strong>AI-Enhanced Education</strong></p>
 <p>RAG, LDA technologies Innovation in education</p>
 <p>Integrating cutting-edge AI technologies into educational practice and research</p>
@@ -203,7 +208,7 @@ Qualitative research expertise</p>
 
 
 
-<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+</main> <!-- /main -->
 <!-- 웹폰트 추가 (Google Fonts 사용 예시) -->
 <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Text:wght@400;500;700&amp;display=swap" rel="stylesheet">
 
@@ -212,7 +217,8 @@ Qualitative research expertise</p>
   width: 100%;
   background: #eef2f7;
   padding: 4rem 1rem 1rem 1rem;
-  position: relative;
+  position: block;
+  z-index: 1; /* 낮은 값 지정 */
   opacity: 0;
   transform: translateY(-1rem);
   animation: fade-in 1s 0ms forwards;
@@ -226,9 +232,9 @@ Qualitative research expertise</p>
   flex-direction: column;
   align-items: flex-start;
   gap: 2rem;
-  opacity: 0;
+  /*opacity: 0;
   transform: translateY(-1rem);
-  animation: fade-in 1s 0.2s forwards;
+  animation: fade-in 1s 0.2s forwards;*/
 }
 .footer-headline {
   font-family: 'Red Hat Text', Helvetica, serif;
@@ -253,15 +259,35 @@ Qualitative research expertise</p>
 .footer-links {
   display: flex;
   flex-wrap: wrap;
-  gap: 14px;
+  justify-content: space-between;
+  align-items: center;   
+  width: 100%;  
   opacity: 0;
   transform: translateY(-1rem);
   animation: fade-in 1s 0.4s forwards;
 }
+
+.footer-links-sns{
+  display: flex;
+  gap: 0.75rem;
+}
+
+.footer-back-to-top {
+  color: #343A40;
+}
+
+.footer-back-to-top a {
+  text-decoration: none; /* 밑줄 제거 */
+}
+
+.footer-back-to-top:hover {
+  color: #1f4eb6cc;
+}
+
 .footer-link {
   display: inline-flex;
   align-items: center;
-  gap: 7px;
+  gap: 0.5rem;
   text-decoration: none;
   color: #343A40;
   font-family: 'Red Hat Text', Helvetica, sans-serif;
@@ -310,6 +336,7 @@ Qualitative research expertise</p>
     transform: translateY(0);
   }
 }
+
 </style>
 
 <footer class="footer">
@@ -321,14 +348,13 @@ Qualitative research expertise</p>
           Passionate about transforming education through the thoughtful
           integration of AI, grounded in years of classroom experience and
           rigorous research.
+          <br>
+          If you want to discuss with me, please mail to <img class="about-sns-link" src="../assets/icon/mail-icon.svg" width="16" height="16" alt="Email"> <b>y_lee10@uncg.edu</b>
         </p>
       </div>
       <div class="footer-links">
-        <!-- Email -->
-        <a href="#" class="footer-link" target="_blank">
-          <img src="../assets/icon/mail-icon.svg" width="16" height="16" alt="Medium">
-          Email
-        </a>
+        <div class="footer-links-sns">
+        
         <!-- LinkedIn -->
         <a href="https://www.linkedin.com/in/yongjin-lee-973273258/" class="footer-link" target="_blank">
           <img src="../assets/icon/linkedin-mark.svg" width="16" height="16" alt="Medium">
@@ -349,20 +375,15 @@ Qualitative research expertise</p>
           <img src="../assets/icon/medium-mark.svg" width="16" height="16" alt="Medium">
           Medium
         </a>
+        </div>
+        <div class="footer-back-to-top">
+        <!-- 추가: Back to top 텍스트 버튼 -->
+        <a href="#" id="quarto-back-to-top-link" class="footer-back-to-top" style="margin-left:auto; cursor:pointer;">
+         Back to top ↑
+        </a>
+        </div>
       </div>
     </div>
-
-    <!--<div class="footer-bottom">-->
-      <!--<div class="footer-copy">
-        © 2025 Yongjin Lee ∙ Made with 
-        <a href="https://quarto.org/" target="_blank" rel="noopener noreferrer">Quarto</a>
-      </div>
-      <div class="footer-license">
-        <a href="#">License</a>
-        &nbsp; | &nbsp;
-        <a href="#">RSS</a>
-      </div>
-    </div>-->
   </div>
 </footer>
 <script id="quarto-html-after-body" type="application/javascript">

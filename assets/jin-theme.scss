@@ -38,6 +38,12 @@ $headings-font-family:       "Red Hat Text";
 
 
 /* page-footer 내 링크 기본 스타일 */
+.nav-footer {
+  background-color: transparent !important;
+}
+
+
+
 .nav-footer a {
   color: inherit; /* 기본 색상 유지 */
   transition: color 0.3s ease;
