@@ -6,27 +6,26 @@ subtitle: Educator • Researcher
 about:
   id: hero-heading
   template: jolla
-  image: assets/image/yj_illust.png
+  image: assets/image/yj_illust_bw.png
   
+
+
+format:
+  html:
+   css: assets/index.css      
   
-page-layout: full
-header-includes: >
-  <link rel="stylesheet" href="../assets/index.css">
-resources:
-  - ../assets/index.css      
-  
+
 ---
 
-
+<!-- hero-heading -->
 ::: {#hero-heading}
 
 
 As a physical education educator and researcher, I listen, reflect, and act to advance social and emotional learning through the integration of theory, practice, and innovation.
 
-
-[**Learn more about me &rarr;**](/about/index.qmd)
-
+[Learn more about me &rarr;](/about/index.qmd){.about-links .subtitle}
 
 :::
-<!-- hero-heading -->
+<!-- end hero-heading -->
+
 

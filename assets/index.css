@@ -2,18 +2,36 @@ body {
   overflow-x: hidden;
 }
 
+
+
 /* Quarto about 템플릿 컨테이너 기본 반응형 유지 */
 .quarto-about-jolla {
   max-width: 100%; /* 템플릿 기본 제한 제거 */
   margin: 0 auto;
   padding: 0 1rem;  /* 좌우 여백 확보 */
+  text-align: center !important;
 }
+
+.entity-contents {
+  text-align: center !important;
+}
+
+.quarto-about-jolla .about-image { 
+  background-color: #f1f2f6 !important; /* 원하는 색상으로 수정 */
+}
+
+.quarto-about-joll .about-links { 
+  display: block !important;
+}
+
+
 
 /* title */
 .title {
   font-size: 2.2rem;
   font-weight: 700;
   line-height: 1.1em !important;
+  text-align: center;
 }
 
 /* subtitle + Learn More About Me */
@@ -21,11 +39,14 @@ body {
   font-size: 1rem;
   font-weight: 700;
   text-transform: uppercase;
+  text-align: center;
   letter-spacing: 0.1em;
 }
 
-#hero-heading{
-  align-content: center;
-  text-align: center;
-}
+
+/* center Learn More About Me */
+.about-links.subtitle {
+      justify-content: center !important;
+    }
+
 
