@@ -1,12 +1,12 @@
 ---
-title: "Yongjin Lee Ph.D"
+title: "Yongjin Lee Ph.D."
 subtitle: Educator • Researcher 
 
 about:
   template: trestles
   image: image/yj_profile.JPG
-  image-alt: "Professional headshot of a man smiling in a cardigan and button-up shirt"
-  image-width: 8em
+  image-alt: "Professional headshot"
+  image-width: 10em
   image-shape: round
   id: hero-heading
 
@@ -53,8 +53,7 @@ Thanks for stopping by!
 I **“listen, reflect, and act.”** As an educator and researcher in physical education, I listen to students’ and teachers’ experiences, reflect critically to deepen understanding, and act through teaching, scholarship, and dissemination to enrich educational practice.
 My current work focuses on **social and emotional learning in physical education**, where I integrate philosophical inquiry, practical pedagogy, and innovative technologies. My goal is to bridge theory, practice, and innovation to enhance the educational experiences of both teachers and students. 
 
-링크 필요시, [publications](/publication).
-
+<!--링크 필요시, [publications](/publication).-->
 
 :::
 
@@ -64,8 +63,8 @@ My current work focuses on **social and emotional learning in physical education
 
 
 
-<img src="image/research_interest.png" alt="Research interest" 
-     style="width:20em; display:block; margin:0 auto;">
+<!--<img src="image/research_interest.png" alt="Research interest" 
+     style="width:20em; display:block; margin:0 auto;">-->
 
 ::: {.grid}
 

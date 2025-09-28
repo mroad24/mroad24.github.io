@@ -32,19 +32,18 @@ website:
       - text: CV
         aria-label: "CV"
         href: cv.qmd
+      ##-  text: Projects
+        ##aria-label: "Projects"
+        ##href: projects/index.qmd
         
         
   page-footer: 
-    left: >-
-     &#169; 2025 Yongjin Lee &#8729; Made with [Quarto](https://quarto.org)
+    left: "" 
      
-    center: ""    
-    right: 
-      - text: License
-        href: https://www.google.com
-        
-      - text: RSS
-        href: https://www.linkedin.com/in/yongjin-lee-973273258
+    center: >-
+      &#169; 2025 Yongjin Lee &#8729; Made with [Quarto](https://quarto.org)    
+
+    right: ""
    
 
 format:
