@@ -47,11 +47,14 @@ description: |
 
 ::: {#hero-heading}
 <div class="h1">Hello! It’s nice to meet you</div>
+<br>
+I **explore, reflect, and create.** 
 
-Thanks for stopping by!
+As an educator and researcher, I explore students’ and teachers’ experiences, reflect critically to bridge theory and practice, and create innovative solutions to enrich educational practice. 
 
-I **“listen, reflect, and act.”** As an educator and researcher in physical education, I listen to students’ and teachers’ experiences, reflect critically to deepen understanding, and act through teaching, scholarship, and dissemination to enrich educational practice.
-My current work focuses on **social and emotional learning in physical education**, where I integrate philosophical inquiry, practical pedagogy, and innovative technologies. My goal is to bridge theory, practice, and innovation to enhance the educational experiences of both teachers and students. 
+My current work focuses on **Integrating AI for Reflective Practice and Systematic Review**, where I integrate philosophical inquiry, practical pedagogy, and innovative technologies.
+
+If your goal is aligned to mine, please feel free to contact me. 
 
 <!--링크 필요시, [publications](/publication).-->
 
@@ -70,23 +73,25 @@ My current work focuses on **social and emotional learning in physical education
 
 ::: {.g-col-12 .g-col-lg-4 #about-me-1}
 
-**PE for Holistic Student Development**
+**Physical Education for Holistic Development**
 
-10 years K-12 teaching  
-Foundation in holistic learning
+Extensive K-12 teaching and teacher community experience
 
-Character building, self-compassion, and meaningful learning experiences for all students
+Foundation in holistic learning and humanitas-oriented education
+
+Social and emotional learning and model-based practices for all students
 
 :::
 
 ::: {.g-col-12 .g-col-lg-4 #about-me-2}
 
-**Reflective Practice & Self-Study**
+**Reflective Practice**
 
-Self-study methodologies  
-Qualitative research expertise
+Educational philosophy grounded inJohn Dewey, Lev Vygotsky, Gert Biesta
 
-Qualitative research methodologies and professional development frameworks
+Qualitative research and Self-study methodologies
+
+Teacher community building and professional development
 
 :::
 
@@ -95,11 +100,11 @@ Qualitative research methodologies and professional development frameworks
 
 **AI-Enhanced Education**
 
-RAG, LDA technologies
-Innovation in education
+Graph knowledge and Retrieval-augmented generation technologies
 
 Integrating cutting-edge AI technologies into educational practice and research
 
+Teacher professionalism in the age of AI
 :::
 
 :::
@@ -110,3 +115,54 @@ Integrating cutting-edge AI technologies into educational practice and research
 <div class="btn-container">
   <a href="../research/" class="btn btn-custom">See My Research →</a>
 </div>
+
+## Education
+
+### Ph.D. in Kinesiology  
+**University of North Carolina at Greensboro, Greensboro, NC**  
+_August 2023 – Present_  
+- Concentration: Curriculum and Pedagogy Studies in Physical Education  
+- Dissertation: *Social and Emotional Learning For Physical Education: World-Centered Education in a High School Context*  
+  - Advisor: Dr. Ben Dyson
+
+### M.S. in Sport Pedagogy  
+**Seoul National University, Seoul, South Korea**  
+_March 2016 – August 2018_  
+- Concentration: Physical Education  
+- Thesis: *An Exploration on Professional Identity of Growing Stage Physical Education Teachers*  
+  - Advisor: Dr. Euichang Choi
+
+### B.S. in Physical Education  
+**Seoul National University, Seoul, South Korea**  
+_March 2007 – February 2013_  
+- Magna Cum Laude  
+- Certified as a secondary school physical education teacher
+
+---
+
+## Professional Experiences
+
+### Graduate Assistant  
+**University of North Carolina at Greensboro**  
+_August 2023 – Present_  
+- Main Teaching Instructor:  
+  - KIN 217 Intro of Teaching Physical Education (SP 2023, SP 2024, SP 2025)  
+  - HEA 201 Personal Health (FA 2022, FA 2023, FA 2024, FA 2025)  
+  - KIN 110 Ultimate (FA 2022, SP 2023)  
+- Research Assistant:  
+  - Middle College at North Carolina at Greensboro, Greensboro, NC  
+  - Participatory research exploring students’ experiences and implementing student-centered physical education  
+  - Developing and teaching innovative pedagogies in physical education
+
+### Professional Development Researcher & Educator  
+_2017 – 2023_  
+- Teacher Researcher, Good Physical Education, South Korea (2017 – 2022)  
+- Content Developer, Educational Broadcasting System, South Korea (2021)  
+- Manual Developer, Gyeonggi Sports Club, South Korea (2020 – 2021)  
+- Lecturer, South Korean Teacher Certificate Program (2019, 2020)
+
+### Physical Education Teacher  
+_March 2013 – July 2023_  
+- Suwon Academy of World Languages, Suwon, South Korea (2021 – 2022)  
+- Kwanyang Middle School, Anyang, South Korea (2016 – 2021)  
+- Seoho Middle School, Suwon, South Korea (2013 – 2016)

@@ -4,7 +4,7 @@
 }
 
 
-.title{
+.title {
   font-family: "Red Hat Text" !important;
   font-size: 2em !important;
   font-weight: 500 !important;
@@ -12,16 +12,16 @@
   letter-spacing: -0.025em !important;
 }
 
-.h1{
+.h1 {
   font-family: "Red Hat Text" !important;
   line-height: 1em !important;
+  font-size: 2em !important;
   letter-spacing: -0.05em !important;
 }
-  
-.h2{
-  font-family: "Red Hat Text" !important;
 
-  line-height: 1em !important;
+.h2 {
+  font-family: "Red Hat Text" !important;
+  line-height: 1.5em !important;
   letter-spacing: -0.05em !important;
 }
 
@@ -52,7 +52,7 @@ a:hover .about-sns-link {
 /* social links: individual links */
 .about-entity .about-link {
   padding: 0.25em 0.25em !important;
-  border: none !important;  
+  border: none !important;
 }
 
 
@@ -66,43 +66,50 @@ a:hover .about-sns-link {
   justify-content: center !important;
 }
 
-.about-contents{
+.about-contents {
   max-width: 100%;
 }
 
 /* trestles 템플릿 가운데 세로줄 없애기 */
-.quarto-about-trestles .about-contents  {
+.quarto-about-trestles .about-contents {
   border-left: none !important;
 }
 
 #about-me-1 {
-  background-color: #F2F7EF; /* 첫 번째 영역 배경색 */
+  background-color: #F2F7EF;
+  /* 첫 번째 영역 배경색 */
   margin: 0em 0.5em 0em 0em;
 }
 
 #about-me-2 {
-  background-color: #EFF3F7; /* 두 번째 영역 배경색 */
+  background-color: #EFF3F7;
+  /* 두 번째 영역 배경색 */
   margin: 0em 0.25em 0em 0.25em;
 }
 
 #about-me-3 {
-  background-color: #F4EFF7; /* 세 번째 영역 배경색 */
+  background-color: #F4EFF7;
+  /* 세 번째 영역 배경색 */
   margin: 0em 0em 0em 0.5em;
 }
 
 #about-me-1,
 #about-me-2,
 #about-me-3 {
-  border: 1px solid; /* 테두리 두께와 기본 선 스타일 */
-  border-radius: 0.5rem; /* 모서리 둥글기 (px 단위, 원하는 값으로 조정 가능) */
+  border: 1px solid;
+  /* 테두리 두께와 기본 선 스타일 */
+  border-radius: 0.5rem;
+  /* 모서리 둥글기 (px 단위, 원하는 값으로 조정 가능) */
   border-color: #CDD8E1;
   padding: 2em 2em 2em 2em !important;
 }
 
 .btn-container {
   display: flex;
-  justify-content: center; /* 수평 중앙 정렬 */
-  margin-top: 2rem;        /* 위쪽 여백 (필요시 조절) */
+  justify-content: center;
+  /* 수평 중앙 정렬 */
+  margin-top: 2rem;
+  /* 위쪽 여백 (필요시 조절) */
 }
 
 .btn-container a.btn-custom {
@@ -111,19 +118,22 @@ a:hover .about-sns-link {
   font-size: 1.1rem;
   padding: 0.5em 1.2em;
   border-radius: 0.5rem;
-  background-color: #002D59; /* 원하는 배경색 */
-  color: white;             /* 글자색 */
+  background-color: #002D59;
+  /* 원하는 배경색 */
+  color: white;
+  /* 글자색 */
   border: none;
 }
 
 .btn-container a.btn-custom:hover {
-  opacity: 0.8; /* 호버 시 색상 */
+  opacity: 0.8;
+  /* 호버 시 색상 */
 }
 
 
 /* mobile query up for screens up to ~992px wide */
 @media screen and (max-width: 991.98px) {
-  .about-entity .about-links{
+  .about-entity .about-links {
     flex-direction: row !important;
   }
 
@@ -131,7 +141,7 @@ a:hover .about-sns-link {
   .about-entity .about-links {
     font-size: 1.2em !important;
   }
-  
+
 }
 
 /* mobile query up for screens up to ~576px wide */
@@ -142,7 +152,7 @@ a:hover .about-sns-link {
     display: flex;
     flex-wrap: wrap;
   }
-  
+
   .about-entity {
     min-width: full;
   }
@@ -157,13 +167,14 @@ a:hover .about-sns-link {
   .about-entity {
     margin: 0em 0em 0em 0em;
   }
-  
+
   /* 모바일 등 작은 화면에서도 아이콘 가로배치 유지 */
-.about-sns-link {
-  flex-wrap: nowrap !important;
-}
-.about-entity .about-links {
-  flex-wrap: nowrap !important;
-}
-  
+  .about-sns-link {
+    flex-wrap: nowrap !important;
+  }
+
+  .about-entity .about-links {
+    flex-wrap: nowrap !important;
+  }
+
 }

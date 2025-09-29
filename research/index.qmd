@@ -1,6 +1,6 @@
 ---
 title: "Research"
-subtitle: "We focus on advancing our understanding of children’s learning and cognition in the context of AI, aiming to ensure that AI serves as a positive force in children’s development while mitigating risks."
+subtitle: "My research program operates at the nexus of artificial intelligence, educational practice, and critical inquiry. How can AI be designed to enhance, rather than replace, the deeply human aspects of teaching and learning?"
 title-block-banner: true
 
 page-layout: full
@@ -13,7 +13,6 @@ resources:
 
 ::: {#hero-heading}
 
-
 <div class="h2">Research Interest</div>
 
 
@@ -23,37 +22,37 @@ resources:
 
 ::: {.topic-box}
 
-<div class="h3">**Holistic, Reflective, and Transformative Physical Education: World-Centered Education**</div>
+<div class="h3">**AI-Enhanced Educational Research**</div>
 
-Character building, self-compassion, and meaningful learning experiences for all students
+Developing novel AI-powered methods to analyze and enrich complex educational data while preserving interpretive nuance
 
-- Teacher change
-- Teacher inquiry 
-- AI- and computing-integrated teacher education 
+- AI-enhanced self-study research frameworks
+- Retrieval-Augmented Generation for qualitative data analysis
+- Automated reflective question generation
 
 :::
 
 ::: {.topic-box}
-<div class="h3">**Reflective Practice with Self-Study Methodologies**</div>
+<div class="h3">**Knowledge Synthesis and Dynamic Literature Review Systems**</div>
 
-Qualitative research methodologies and professional development frameworks
-Qualitative research methodologies and professional development frameworks
+Creating AI-assisted tools for constructing knowledge graphs and dynamic representations of research fields
 
-- Multimodal literacy 
-- Supporting marginalized students using a play-based approach 
-- Project-based approach 
+- Knowledge graph construction from systematic literature reviews
+- AI-powered research synthesis and visualization
+- Dynamic relationship mapping between studies
+
 :::
 
 
 ::: {.topic-box}
-<div class="h3">**Retrieval-Augmented Generation Enhanced AI Application in Education and Research**</div>
+<div class="h3">**Ethical AI Integration in Teacher Education**</div>
 
-Integrating cutting-edge AI technologies into educational practice and research
+Preparing educators for AI-driven educational transformation with focus on equity, ethics, and community engagement
 
-- Teacher Development : AI-Enhanced Teacher Training
-- Curriculum Tools : Personalized curriculum design using AI technologies
-- Research Innovation :  AI technologies into educational practice and research 
-                                          (RAG, LDA technologies, Automated qualitative data analysis framework etc.)
+- AI-powered simulations for culturally responsive teaching practice
+- Personalized professional development pathways using AI analysis
+- Community-engaged AI tool co-design with students, families, and educators
+
 :::
 
 
