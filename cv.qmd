@@ -7,7 +7,7 @@ format: html
 
 
 
-{{< pdf CV_YongjinLee_250914.pdf width=100% height=700 >}}
-[View or download my CV (PDF)](CV_YongjinLee_250914.pdf)
+{{< pdf CV_YongjinLee_250929.pdf width=100% height=700 >}}
+[View or download my CV (PDF)](CV_YongjinLee_250929.pdf)
 
  
