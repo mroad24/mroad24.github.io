@@ -1,6 +1,6 @@
 ---
-title: "Yongjin Lee, Ph.D."
-pagetitle: Yongjin Lee, Ph.D.
+title: "Yongjin Lee, Ph.D. Candidate"
+pagetitle: Yongjin Lee, Ph.D. Candidate
 subtitle: Educator • Researcher
 
 about:
