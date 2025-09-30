@@ -58,5 +58,4 @@ format:
     css: styles.css
     toc: true
     lightbox: true
-    include-in-header: <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Text&display=swap" rel="stylesheet">
     include-after-body: assets/footer.html
