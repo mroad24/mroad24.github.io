@@ -2,7 +2,15 @@
 
 .h2{
   border-bottom: none !important;
+  margin-top: 0.25rem !important;
 }
+.h3{
+  font-family: "Inter" !important;
+  margin-top: 0.25rem !important;
+  line-height: 1.25em !important;
+  letter-spacing: -0.05rem !important;
+}
+
 
 .card-list {
   display: flex;
@@ -17,17 +25,15 @@
   grid-template-areas: "img text";
   gap: 1.5rem;
     align-items: center;   /* 세로 중앙 정렬 */
-  background: #fafbfc;
-  border: 1px solid; /* 테두리 두께와 기본 선 스타일 */
+  background: #fffff;
   border-radius: 0.5rem;
-  border-color: #CDD8E1;
   /*box-shadow: 0 2px 8px rgba(0,0,0,0.06);*/
   padding: 1.5rem;
   transition: box-shadow 0.2s;
 }
 
 .card-row:hover {
-  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
+  box-shadow: 0 4px 16px rgba(0,0,0,0.1);
 }
 
 /* 카드 안 요소별 영역 지정 */
@@ -66,7 +72,10 @@
       "img"
       "text";
   }
-   .card-img { width:100%; height:auto;}
+   .card-img { 
+   object-fit: cover;
+   width:100%; 
+   height:auto;}
 }
 
 /* mobile query up for screens up to ~576px wide */

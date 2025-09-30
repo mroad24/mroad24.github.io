@@ -73,7 +73,7 @@ If your goal is aligned to mine, please feel free to contact me.
 
 ::: {.g-col-12 .g-col-lg-4 #about-me-1}
 
-**Physical Education for Holistic Development**
+<div class="h3">**PE for Holistic Student Development**</div>
 
 Extensive K-12 teaching and teacher community experience
 
@@ -85,7 +85,8 @@ Social and emotional learning and model-based practices for all students
 
 ::: {.g-col-12 .g-col-lg-4 #about-me-2}
 
-**Reflective Practice**
+<div class="h3">**Reflective Practice & Self-Study**</div>
+
 
 Educational philosophy grounded inJohn Dewey, Lev Vygotsky, Gert Biesta
 
@@ -98,7 +99,7 @@ Teacher community building and professional development
 ::: {.g-col-12 .g-col-lg-4 #about-me-3}
 
 
-**AI-Enhanced Education**
+<div class="h3">**AI-Enhanced Education**</div>
 
 Graph knowledge and Retrieval-augmented generation technologies
 

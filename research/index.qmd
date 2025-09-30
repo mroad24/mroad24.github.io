@@ -1,7 +1,7 @@
 ---
 title: "Research"
 subtitle: "My research program operates at the nexus of artificial intelligence, educational practice, and critical inquiry. How can AI be designed to enhance, rather than replace, the deeply human aspects of teaching and learning?"
-title-block-banner: true
+title-block-banner: false
 
 page-layout: full
 
@@ -61,6 +61,6 @@ Preparing educators for AI-driven educational transformation with focus on equit
 
 
 <div class="btn-container">
-  <a href="../cv.qmd" class="btn btn-custom">Get More Research Output in CV</a>
+  <a href="../cv.qmd" class="btn btn-custom">Get More Research Output in CV →</a>
 </div>
 

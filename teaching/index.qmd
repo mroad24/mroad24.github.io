@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 subtitle: "Reflection, Collaboration, and Student-Centered Learning - the heart of true education"
-title-block-banner: true
+title-block-banner: false
 
 page-layout: full
 
@@ -10,6 +10,8 @@ header-includes: >
 resources:
   - ../teaching/teaching.css   
 ---
+<br>
+
 ::: {#hero-heading}
 <div class="h2">Teaching Philosophy</div>
 

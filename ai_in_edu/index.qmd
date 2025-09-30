@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 subtitle: "Education landscape is evloving with AI. How can we leverage AI to enhance our teaching and learning?"
-title-block-banner: true
+title-block-banner: false
 
 page-layout: full
 
@@ -11,7 +11,7 @@ resources:
   - ../ai_in_edu/ai-in-edu.css
 ---
 
-
+<br>
 <!-- start grid -->
 
 <div class="card-list">
