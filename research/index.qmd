@@ -1,6 +1,6 @@
 ---
 title: "Research"
-subtitle: "My research program operates at the nexus of artificial intelligence, educational practice, and critical inquiry. How can AI be designed to enhance, rather than replace, the deeply human aspects of teaching and learning?"
+subtitle: "My research program operates at the nexus of educational practice, critical inquiry, and artificial intelligence. How can educational practice be designed to enhance teachers' and students' experiences?"
 title-block-banner: false
 
 page-layout: full
@@ -22,6 +22,17 @@ resources:
 <!-- start topic box -->
 
 ::: {.topic-box}
+<div class="h3">**Physical Education for Holistic Student Development**</div>
+
+Developing holistic physical education programs for all students.
+
+- Humanitas-oriented education
+- Social and emotional learning
+- Model-based practices
+
+:::
+
+::: {.topic-box}
 
 <div class="h3">**AI-Enhanced Educational Research**</div>
 
@@ -29,30 +40,18 @@ Developing novel AI-powered methods to analyze and enrich complex educational da
 
 - AI-enhanced self-study research frameworks
 - Retrieval-Augmented Generation for qualitative data analysis
-- Automated reflective question generation
+- Graph knowledge for systematic review
 
 :::
-
-::: {.topic-box}
-<div class="h3">**Knowledge Synthesis and Dynamic Literature Review Systems**</div>
-
-Creating AI-assisted tools for constructing knowledge graphs and dynamic representations of research fields
-
-- Knowledge graph construction from systematic literature reviews
-- AI-powered research synthesis and visualization
-- Dynamic relationship mapping between studies
-
-:::
-
 
 ::: {.topic-box}
 <div class="h3">**Ethical AI Integration in Teacher Education**</div>
 
 Preparing educators for AI-driven educational transformation with focus on equity, ethics, and community engagement
 
-- AI-powered simulations for culturally responsive teaching practice
+- Teacher professionalism in the age of AI
+- AI-powered simulations for teaching practice
 - Personalized professional development pathways using AI analysis
-- Community-engaged AI tool co-design with students, families, and educators
 
 :::
 

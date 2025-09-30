@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-subtitle: "Reflection, Collaboration, and Student-Centered Learning - the heart of true education"
+subtitle: "Reflection, Collaboration, and Student-Centered Learning - the heart of education"
 title-block-banner: false
 
 page-layout: full

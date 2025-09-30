@@ -36,7 +36,7 @@ Professional development integrating AI tools for educators.
 
 Qualiative research tools integrating AI tools, using Retrieval-Augmented Generation and Topic Modeling. 
 
-- <a href="https://medium.com/@yongjinL/ai-help-me-talk-with-the-data-rag-for-qualitative-research-c56965739814" target="_blank" rel="noopener noreferrer">RAG Workflows</a>
+- <a href="https://medium.com/@yongjinL/ai-help-me-talk-with-the-data-rag-for-qualitative-research-c56965739814" target="_blank" rel="noopener noreferrer">RAG for data analysis</a>
 - <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">Topic Modeling</a> 
 </div>
 <img src="image/ai_in_edu_001.png" class="card-img" alt="Curriculum Tools" />
