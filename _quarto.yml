@@ -38,12 +38,8 @@ website:
         
         
   page-footer: 
-    left: "" 
-     
     center: >-
       &#169; 2025 Yongjin Lee &#8729; Made with [Quarto](https://quarto.org)    
-
-    right: ""
    
 
 format:
