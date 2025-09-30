@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
-subtitle: "We focus on advancing our understanding of children’s learning and cognition in the context of AI, aiming to ensure that AI serves as a positive force in children’s development while mitigating risks."
-title-block-banner: true
+subtitle: "Education landscape is evloving with AI. How can we leverage AI to enhance our teaching and learning?"
+title-block-banner: false
 
 page-layout: full
 
@@ -11,47 +11,47 @@ resources:
   - ../ai_in_edu/ai-in-edu.css
 ---
 
-
+<br>
 <!-- start grid -->
 
 <div class="card-list">
 
 <!-- first card -->
 <div class="card-row">
-<img src="image/ai_in_edu_001.png" class="card-img" alt="AI Teacher Development" />
+<img src="image/ai_in_edu_004.png" class="card-img" alt="AI Teacher Development" />
 <div class="card-text">
-<div class="h2">**Teacher Development : AI-Enhanced Teacher Training**</div>
+<div class="h2">**Teacher Reflective Practice: AI-powered Automation**</div>
 
-Professional development program integrating AI tools for educators  Professional development program integrating AI tools for educators 
+Professional development integrating AI tools for educators.  
 
-- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">NBN Workflows</a>
-- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">App scripts for Google</a> 
+- <a href="https://medium.com/@yongjinL/automate-teaching-reflection-with-ai-cc8f7784eece" target="_blank" rel="noopener noreferrer">Make Workflows</a>
+- <a href="https://medium.com/@yongjinL/automated-presentation-analysis-with-google-apps-script-58cd1a91e93b" target="_blank" rel="noopener noreferrer">Apps Scripts for Google Applications</a> 
 </div>
 </div>
 
 <!-- second card -->
 <div class="card-row alt">
 <div class="card-text">
-<div class="h2">**Curriculum Tools :  AI-Powered Learning Platform**</div>
+<div class="h2">**Qualitative Data Analysis: AI-Powered Research Assistant**</div>
 
-Professional development program integrating AI tools for educators  Professional development program integrating AI tools for educators 
+Qualiative research tools integrating AI tools, using Retrieval-Augmented Generation and Topic Modeling. 
 
-- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">NBN Workflows</a>
-- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">App scripts for Google</a> 
+- <a href="https://medium.com/@yongjinL/ai-help-me-talk-with-the-data-rag-for-qualitative-research-c56965739814" target="_blank" rel="noopener noreferrer">RAG for data analysis</a>
+- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">Topic Modeling</a> 
 </div>
-<img src="image/ai_in_edu_002.png" class="card-img" alt="Curriculum Tools" />
+<img src="image/ai_in_edu_001.png" class="card-img" alt="Curriculum Tools" />
 </div>
 
 <!-- third card -->
 <div class="card-row">
 <img src="image/ai_in_edu_003.png" class="card-img" alt="Research Innovation" />
 <div class="card-text">
-<div class="h2">**Research Innovation :  RAG-Enhanced Analysis**</div>
+<div class="h2">**Research Innovation: Graph Knowledge-Enhanced Literature Review**</div>
 
-Professional development program integrating AI tools for educators  Professional development program integrating AI tools for educators 
+Systematic Literature Review and Second Brain projects with Graph Knowledge using LightRAG and GraphRAG. 
 
-- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">NBN Workflows</a>
-- <a href="https://medium.com/@yongjinL/beyond-manual-coding-a-practical-guide-to-using-lda-for-qualitative-data-analysis-e8f6c08ab2ad" target="_blank" rel="noopener noreferrer">App scripts for Google</a> 
+- <a href="https://medium.com/@yongjinL/lightrag-contextualizing-data-with-knowledge-graphs-ae93927d6bae" target="_blank" rel="noopener noreferrer">LightRAG</a>
+- <a href="https://medium.com/@yongjinL/build-a-second-brain-from-zotero-highlights-with-n8n-and-rag-c761c2887fde" target="_blank" rel="noopener noreferrer">Second Brain</a> 
 </div>
 </div>
 

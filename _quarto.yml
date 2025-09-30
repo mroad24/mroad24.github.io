@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Yongjin Lee"
-  site-url: https://mroad24.github.io
+  site-url: https://yongjin-l.github.io
   description: "Educator and researcher creating innovative PE curricula that integrate technology and social-emotional learning to help students thrive."  
   page-navigation: true
   back-to-top-navigation: false
@@ -32,19 +32,14 @@ website:
       - text: CV
         aria-label: "CV"
         href: cv.qmd
+      ##-  text: Projects
+        ##aria-label: "Projects"
+        ##href: projects/index.qmd
         
         
   page-footer: 
-    left: >-
-     &#169; 2025 Yongjin Lee &#8729; Made with [Quarto](https://quarto.org)
-     
-    center: ""    
-    right: 
-      - text: License
-        href: https://www.google.com
-        
-      - text: RSS
-        href: https://www.linkedin.com/in/yongjin-lee-973273258
+    center: >-
+      &#169; 2025 Yongjin Lee &#8729; Made with [Quarto](https://quarto.org)    
    
 
 format:
@@ -59,5 +54,4 @@ format:
     css: styles.css
     toc: true
     lightbox: true
-    include-in-header: <link href="https://fonts.googleapis.com/css2?family=Red+Hat+Text&display=swap" rel="stylesheet">
     include-after-body: assets/footer.html

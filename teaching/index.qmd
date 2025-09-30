@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
-subtitle: "Movement, reflection, and community - the heart of true education"
-title-block-banner: true
+subtitle: "Reflection, Collaboration, and Student-Centered Learning - the heart of education"
+title-block-banner: false
 
 page-layout: full
 
@@ -10,10 +10,12 @@ header-includes: >
 resources:
   - ../teaching/teaching.css   
 ---
+<br>
+
 ::: {#hero-heading}
 <div class="h2">Teaching Philosophy</div>
 
-I am an educator and researcher developing and implementing physical activity programs and curricula for holistic, agentic, and transformative lifelong journeys. I am an educator and researcher developing and implementing physical activity programs and curricula for holistic, agentic, and transformative lifelong journeys.
+Learning is a collaborative journey of identity formation. With years of experience across diverse educational contexts, I guide future educators to become reflective, equity-focused practitioners who honor students' diverse backgrounds and adapt to our rapidly changing landscape.
 
 :::
 
@@ -22,23 +24,25 @@ I am an educator and researcher developing and implementing physical activity pr
 <!-- start topic box -->
 
 ::: {.topic-box}
-<div class="h3">**Reflective Practice and Growth Mindset**</div>
+<div class="h3">**Reflective & Experiential Learning**</div>
 
-Teaching is a continuous journey of reflection and adaptation.I strive to create an interactive learning environment where both teachers and students grow together.
+Teaching is a continuous journey of reflection and adaptation. I create interactive learning environments where teachers and students grow together, examining beliefs and biases while building on cultural assets as strengths.
 
 :::
-
-::: {.topic-box}
-<div class="h3">**Learning Through Movement**</div>
-
-I believe students should take ownership of their learning. I create a classroom environment that respects individual backgrounds, empowers autonomy, and fosters active participation.
-:::
-
 
 ::: {.topic-box}
 <div class="h3">**Student-Centered Learning**</div>
 
-I believe students should take ownership of their learning. I create a classroom environment that respects individual backgrounds, empowers autonomy, and fosters active participation.
+I believe students should take ownership of their learning through active participation. My classroom environment respects individual backgrounds, empowers autonomy, and integrates thoughtful technology use that serves student well-being.
+
+:::
+
+
+::: {.topic-box}
+<div class="h3">**Collaborative Learning**</div>
+
+I create learning communities where peer collaboration is valued and diverse perspectives are celebrated. Students learn from one another while building professional networks that extend beyond the university classroom.
+
 :::
 
 
@@ -65,7 +69,7 @@ Mar. 2016 - Feb. 2021
 <div class="h2">Higher Education Teaching </div>
 <div class="h3">University of North Carolina Greensboro (2022 - Present)</div><br>
 
-<div class="section-chip"><strong>Teaching</strong></div>
+<div class="section-chip"><strong>Courses</strong></div>
 
 - **KIN 217** Intro to Teaching Physical Education  
 Spring 2023, Spring 2024, Spring 2025
@@ -74,7 +78,7 @@ Fall 2022, Fall 2023, Fall 2024
 - **KIN 110** Ultimate
 Fall 2022, Spring 2023
 
-<br><div class="section-chip"><strong>Curricular Practical Training</strong></div>
+<br><div class="section-chip"><strong>Teaching</strong></div>
 
 - **Investigating Social and Emotional Learning using Cooperative Learning as a pedagogical practice in Middle College Physical Education and Health Education**  
 Fall 2024, Spring 2025

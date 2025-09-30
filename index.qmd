@@ -1,14 +1,13 @@
 ---
-title: "Yongjin Lee, PhD"
-pagetitle: Yongjin Lee, PhD
+title: "Yongjin Lee, Ph.D. Candidate"
+pagetitle: Yongjin Lee, Ph.D. Candidate
 subtitle: Educator • Researcher
 
 about:
   id: hero-heading
   template: jolla
-  image: assets/image/yj_illust_bw.png
+  image: assets/image/yj_illust.png
   
-
 
 format:
   html:

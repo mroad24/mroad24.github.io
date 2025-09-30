@@ -1,12 +1,12 @@
 ---
-title: "Yongjin Lee Ph.D"
+title: "Yongjin Lee Ph.D. Candidate"
 subtitle: Educator • Researcher 
 
 about:
   template: trestles
   image: image/yj_profile.JPG
-  image-alt: "Professional headshot of a man smiling in a cardigan and button-up shirt"
-  image-width: 8em
+  image-alt: "Professional headshot"
+  image-width: 10em
   image-shape: round
   id: hero-heading
 
@@ -39,6 +39,13 @@ resources:
   
 description: |
     <p><img class="about-sns-link" src="/assets/icon/mail-icon.svg" width="16" height="16" alt="Email" /> <b>y_lee10@uncg.edu</b></p>
+    
+
+format:
+  html:
+    include-in-header: |
+      <link rel="stylesheet"
+            href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
  
       
       
@@ -47,14 +54,17 @@ description: |
 
 ::: {#hero-heading}
 <div class="h1">Hello! It’s nice to meet you</div>
+<br>
+I **explore, reflect, and create.** 
 
-Thanks for stopping by!
+As an educator and researcher, I explore students’ and teachers’ experiences, reflect critically to bridge theory and practice, and create innovative solutions to enrich educational practice. 
 
-I **“listen, reflect, and act.”** As an educator and researcher in physical education, I listen to students’ and teachers’ experiences, reflect critically to deepen understanding, and act through teaching, scholarship, and dissemination to enrich educational practice.
-My current work focuses on **social and emotional learning in physical education**, where I integrate philosophical inquiry, practical pedagogy, and innovative technologies. My goal is to bridge theory, practice, and innovation to enhance the educational experiences of both teachers and students. 
+My current work focuses on **Developing a holistic physical education program and Integrating AI for education and research**, where I integrate philosophical inquiry, practical pedagogy, and innovative technologies.
 
-링크 필요시, [publications](/publication).
+If your goal is aligned to mine, please feel free to contact me. 
 
+
+<!--링크 필요시, [publications](/publication).-->
 
 :::
 
@@ -64,48 +74,72 @@ My current work focuses on **social and emotional learning in physical education
 
 
 
-<img src="image/research_interest.png" alt="Research interest" 
-     style="width:20em; display:block; margin:0 auto;">
+<!--<img src="image/research_interest.png" alt="Research interest" 
+     style="width:20em; display:block; margin:0 auto;">-->
 
 ::: {.grid}
 
 ::: {.g-col-12 .g-col-lg-4 #about-me-1}
 
-**PE for Holistic Student Development**
+<div class="h3">**PE for Holistic Student Development**</div>
 
-10 years K-12 teaching  
-Foundation in holistic learning
+Extensive K-12 teaching and teacher community experience
 
-Character building, self-compassion, and meaningful learning experiences for all students
+Foundation in holistic learning and humanitas-oriented education
+
+Social and emotional learning and model-based practices for all students
 
 :::
 
 ::: {.g-col-12 .g-col-lg-4 #about-me-2}
 
-**Reflective Practice & Self-Study**
+<div class="h3">**Reflective Practice & Self-Study**</div>
 
-Self-study methodologies  
-Qualitative research expertise
 
-Qualitative research methodologies and professional development frameworks
+Educational philosophy grounded in John Dewey, Lev Vygotsky, Gert Biesta
+
+Qualitative research and Self-study methodologies
+
+Teacher community building and professional development
 
 :::
 
 ::: {.g-col-12 .g-col-lg-4 #about-me-3}
 
 
-**AI-Enhanced Education**
+<div class="h3">**AI-Enhanced Education**</div>
 
-RAG, LDA technologies
-Innovation in education
+Graph knowledge and Retrieval-augmented generation technologies
 
 Integrating cutting-edge AI technologies into educational practice and research
 
+Teacher professionalism in the age of AI
 :::
 
 :::
 <!-- end grid -->
 
+
+<br><br>
+
+::: {.education-list}
+
+<div class="h2">Education</div>
+
+- **Ph.D. in Kinesiology** (August 2023 – Present)  
+University of North Carolina at Greensboro, Greensboro, NC   
+Concentration: Curriculum and Pedagogy Studies in Physical Education  
+
+
+- **M.S. in Sport Pedagogy** (March 2016 – August 2018)  
+Seoul National University, Seoul, South Korea   
+Concentration: Physical Education 
+
+
+- **B.S. in Physical Education** (March 2007 – February 2013)  
+Seoul National University, Seoul, South Korea 
+
+::: 
 <br>
 
 <div class="btn-container">

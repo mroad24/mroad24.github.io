@@ -3,19 +3,17 @@
   border-bottom: none !important;
 }
 .h3{
-  font-family: "Red Hat Text" !important;
-
+  font-family: "Inter" !important;
+  margin-top: 0.25rem !important;
   line-height: 1.25em !important;
-  letter-spacing: -0.05em !important;
+  letter-spacing: -0.05rem !important;
 }
 
 
 .topic-box {
-  background-color: #Ffffff; /* 첫 번째 영역 배경색 */
+  background-color: #f7f7f7; /* 첫 번째 영역 배경색 */
   margin-bottom: 1.5em;        /* 박스 간 간격 */
-  border: 1px solid; /* 테두리 두께와 기본 선 스타일 */
   border-radius: 0.5rem; /* 모서리 둥글기 (px 단위, 원하는 값으로 조정 가능) */
-  border-color: #CDD8E1;
   padding: 2em 8em 2em 4em !important;
 }
 
@@ -26,15 +24,16 @@
 }
 
 .btn-container a.btn-custom {
-  font-family: "Red Hat Text";
+  font-family: "Inter";
   font-weight: 600;
   font-size: 1.1rem;
   padding: 0.5em 1.2em;
-  border-radius: 0.5rem;
-  background-color: #002D59; /* 원하는 배경색 */
+  border-radius: 0.25rem;
+  background-color: #343A40; /* 원하는 배경색 */
   color: white;             /* 글자색 */
   border: none;
 }
+
 
 .btn-container a.btn-custom:hover {
   opacity: 0.8; /* 호버 시 색상 */
